@@ -1,4 +1,4 @@
-Application (SPA) with laravel php framework, mysql  and Bootstrap css.
+Application with laravel php framework, mysql  and Bootstrap css.
 CRUD with admin area using vue.
 Eshop with Paypal payment.
 
